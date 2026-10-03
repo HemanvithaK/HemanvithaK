@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Engineer · Data Engineer</b> — MS in Data Intelligence, SJSU<br>
-  <i>I teach machines to argue with each other until they get the right answer.</i>
+  
 </p>
 
 <p align="center">
