@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Hemanvitha Katakam</h1>
 
 <p align="center">
-  <b>AI Engineer · Data Engineer</b> — MS in Data Intelligence, SJSU<br>
+  <b>AI Engineer · Data Engineer</b> — MS in Data Science, SJSU<br>
   
 </p>
 
